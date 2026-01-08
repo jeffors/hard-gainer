@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# HARD GAINER
+
+![HARD GAINER LOGO](https://raw.githubusercontent.com/jeffors/hard-gainer/c1b51a62812214559a45c8f5f4d364cc18aa7c83/preview/hard%20gainer%20wide%20logo%20readme.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
